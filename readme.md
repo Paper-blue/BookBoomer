@@ -8,11 +8,13 @@
 ![image](https://github.com/user-attachments/assets/f766386d-4c45-46e6-9335-6444ed709c7f)
 
 其中的md文件例：
+
 ![image](https://github.com/user-attachments/assets/8d43ee9e-8af5-4708-9aa1-5972c6eba5b3)
 
 用户在进行学习的时候，可以在复习点中添加自己对于这个知识点的理解，也可以添加用于快速复习的教程
 
 包含的元数据：
+
 ![image](https://github.com/user-attachments/assets/cd83964f-aeb2-48aa-851b-3e0399d09579)
 
 元数据可以用于在黑曜石中管理相关的文件。
